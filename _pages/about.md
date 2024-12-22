@@ -12,3 +12,12 @@ Hello, and thank you for visiting! I'm Sascha, a PhD student in theoretical phys
 This website is a space to share my work, ideas, and contributions to the field of theoretical physics. Here, you'll find an overview of my research projects, publications, and insights into the fascinating questions driving my work.
 
 Feel free to explore, connect, and join me in delving into the science that shapes our understanding of the cosmos!
+
+Updates
+======
+Merry Christmas 2024
+
+Recent Research Interests
+======
+* Freeze-in Leptogenesis (ARS)
+* Freeze-in Dark Matter Production
