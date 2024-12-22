@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Physics, JGU Mainz, 2026 (expected)
 * M.S. in Physics, University of Heidelberg, 2022
 * B.S. in Physics, TU Kaiserslautern, 2016
