@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Sascha's Homepage"
+title: "Welcome to my scientific journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome to my scientific journey
 Hello, and thank you for visiting! I'm Sascha, a PhD student in theoretical physics at the JGU in Mainz. My research focuses on early universe cosmology, including topics like the baryon asymmetry of the universe and dark matter.
 
 This website is a space to share my work, ideas, and contributions to the field of theoretical physics. Here, you'll find an overview of my research projects, publications, and insights into the fascinating questions driving my work.
