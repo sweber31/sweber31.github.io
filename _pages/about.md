@@ -15,9 +15,9 @@ Feel free to explore, connect, and join me in delving into the science that shap
 
 Updates
 ======
-Merry Christmas 2024
+Merry Christmas 2024 🎅🎄🎁
 
-Recent Research Interests
+Recent Research Interests 🌟
 ======
 * Freeze-in Leptogenesis (ARS)
 * Freeze-in Dark Matter Production
