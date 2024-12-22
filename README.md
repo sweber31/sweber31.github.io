@@ -1,3 +1,8 @@
+# My personal Website
+
+Repository for my personal website using the *Academic Pages* template. See below.
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
