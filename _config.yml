@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : sweber31
+  bluesky          : "sweber31.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : sascha-weber-226a6620a
+  linkedin         : "sascha-weber-226a6620a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : SaschaWeber97
+  twitter          : "SaschaWeber97"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
