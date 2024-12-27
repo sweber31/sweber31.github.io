@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PhD student, MPA Associate, PRISMA+ Cluster of Excellence, JGU Mainz
+
 Education
 ------
 * Ph.D Physics, JGU Mainz, 2026 (expected)
