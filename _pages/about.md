@@ -11,6 +11,8 @@ Hello, and thank you for visiting! I'm Sascha, a PhD student in theoretical phys
 
 This website is a space to share my work, ideas, and contributions to the field of theoretical physics. Here, you'll find an overview of my research projects and publications.
 
+Currently I am a PhD student at the [JGU Mainz](https://www.uni-mainz.de/) in the Group of [Julia Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/). I am an associate member of the [Mainz Physics Academy (MPA)](https://www.prisma.uni-mainz.de/mainz-physics-academy/) and part of the [PRISMA+ Cluster of Excellence](https://www.prisma.uni-mainz.de/).
+
 Feel free to explore, connect, and discuss with me!
 
 Updates
