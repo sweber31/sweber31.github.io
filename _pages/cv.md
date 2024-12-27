@@ -20,7 +20,7 @@ Education
   * Title of thesis: “Quantum Field Theory and Phenomenology in 5D Warped Space-Time: Gauge-Higgs Grand Unification”
   * at the Max-Planck Institut für Kernphysik
   * Advisor: Dr. F. Goertz
-* B.Sc. Physics, TU Kaiserslautern, 2016
+* B.Sc. Physics, TU Kaiserslautern, 2019
   * Grade: 1.1
   * Title of thesis: “Rekonfigurierbarer Spin-Wellen Phasenschieber f¨ur die Datenverarbeitung in magnonischen Nanostrukturen”
   * Advisor: Prof. B. Hillebrands
