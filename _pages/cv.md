@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Physics, JGU Mainz, 2026 (expected)
-* M.S. in Physics, University of Heidelberg, 2022
-* B.S. in Physics, TU Kaiserslautern, 2016
+* Ph.D Physics, JGU Mainz, 2026 (expected)
+* M.Sc. Physics, University of Heidelberg, 2022
+  * Grade: 1.0
+  * Title of thesis: “Quantum Field Theory and Phenomenology in 5D Warped Space-Time: Gauge-Higgs Grand Unification”
+  * at the Max-Planck Institut für Kernphysik
+  * Advisor: Dr. F. Goertz
+* B.Sc. Physics, TU Kaiserslautern, 2016
 
 Publications
 ------
