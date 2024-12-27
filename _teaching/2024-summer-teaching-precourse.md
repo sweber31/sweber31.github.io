@@ -8,4 +8,4 @@ date: 2024-03-25
 location: "Mainz, Germany"
 ---
 
-Designing problem sheets for daily dicussions during tutorials. Discussing and explaining solution with students during tutorial. Three weeks instensive course. 
+Designing problem sheets for daily dicussions during tutorials. Discussing and explaining solution with students during tutorial. Three weeks intensive course. 
