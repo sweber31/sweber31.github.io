@@ -13,6 +13,8 @@ This website is a space to share my work, ideas, and contributions to the field 
 
 Currently I am a PhD student at the [JGU Mainz](https://www.uni-mainz.de/) in the Group of [Julia Harz](https://www.thep.physik.uni-mainz.de/group-of-julia-harz-2/). I am an associate member of the [Mainz Physics Academy (MPA)](https://www.prisma.uni-mainz.de/mainz-physics-academy/) and part of the [PRISMA+ Cluster of Excellence](https://www.prisma.uni-mainz.de/).
 
+Outside of my academic work, I enjoy playing football, bouldering, and exploring a variety of other sports. A personal highlight of mine was becoming the [state champion](https://www.kolping-kell.de/wp/allgemein/2011-04/rheinland-pfalz-meisterschaften-2011-in-bad-kreuznach) in Ju-Jutsu in the U15 category for Rheinland-Palatinate in 2011.
+
 Feel free to explore, connect, and discuss with me!
 
 Updates
