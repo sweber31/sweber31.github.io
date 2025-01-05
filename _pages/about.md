@@ -17,7 +17,7 @@ Feel free to explore, connect, and discuss with me!
 
 Updates
 ======
-Merry Christmas 2024! 🎅🎄🎁
+Happy New Year 2025! 🎅🎄🎁
 
 Recent Research Interests 🌟
 ======
