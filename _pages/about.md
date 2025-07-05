@@ -19,7 +19,7 @@ Feel free to explore, connect, and discuss with me!
 
 Updates
 ======
-Happy New Year 2025! 🎆
+I’ll be attending PASCOS 2025 on July 21–25, 2025 in Durham, UK - feel free to reach out if you’d like to connect!
 
 Recent Research Interests 🌟
 ======
